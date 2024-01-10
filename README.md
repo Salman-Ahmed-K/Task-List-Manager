@@ -19,11 +19,11 @@ Follow these steps to run the project locally:
 
 1. **Clone The Repository:**<br/>
    ``git clone https://github.com/Salman-Ahmed-k/task-list-manager.git``
-2. **Navigate to Project Directory:**
+2. **Navigate to Project Directory:**<br/>
    ``cd task-list-manager``
-3. **Install Dependencies:**
+3. **Install Dependencies:**<br/>
    ``npm install``
-4. **Run The Project:**
+4. **Run The Project:**<br/>
    ``npm start``
 
 ## Usage
