@@ -17,7 +17,7 @@ Ensure you have the following installed:
 ## Getting Started
 Follow these steps to run the project locally:
 
-1. **Clone The Repository:**
+1. **Clone The Repository:**<br/>
    ``git clone https://github.com/Salman-Ahmed-k/task-list-manager.git``
 2. **Navigate to Project Directory:**
    ``cd task-list-manager``
